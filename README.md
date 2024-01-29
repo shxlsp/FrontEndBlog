@@ -8,3 +8,4 @@
 
 - [Electron 客户端开发](https://github.com/shxlsp/FrontEndBlog/tree/master/Blog/Electron)
   - [Electron 入门](https://github.com/shxlsp/FrontEndBlog/tree/master/Blog/Electron/入门.md)
+- [Iterm2 配置](https://github.com/shxlsp/FrontEndBlog/tree/master/Blog/item2)
